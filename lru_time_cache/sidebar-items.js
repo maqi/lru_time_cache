@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LruCache","Allows Last Recently Used container which may be limited by size or time. As any element is accessed at all it is reordered to most recently seen"]]});
